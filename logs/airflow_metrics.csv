@@ -1,0 +1,17 @@
+tool,dataset,execution_time_s,memory_mb,cpu_peak_pct
+airflow,adult,1.046,6.97,15.3
+airflow,smartphone,0.108,7.41,3.2
+airflow,adult,0.565,6.6,12.6
+airflow,smartphone,0.09,6.43,2.5
+airflow,adult,0.674,7.52,12.7
+airflow,smartphone,0.15,6.91,4.0
+airflow,adult,0.848,8.14,12.5
+airflow,smartphone,0.062,6.69,1.5
+airflow,adult,0.778,6.96,12.6
+airflow,smartphone,0.109,7.5,3.2
+airflow,adult,0.705,6.54,14.1
+airflow,smartphone,0.066,6.46,1.5
+airflow,adult,0.737,7.66,12.8
+airflow,smartphone,0.124,7.09,3.3
+airflow,adult,1.23,9.59,15.0
+airflow,smartphone,0.064,6.71,2.0
